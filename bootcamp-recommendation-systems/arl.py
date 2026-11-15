@@ -1,6 +1,6 @@
 
 #########################
-# İş Problemi
+# İş problemi
 #########################
 
 # Türkiye’nin en büyük online hizmet platformu olan Armut, hizmet verenler ile hizmet almak isteyenleri buluşturmaktadır.
